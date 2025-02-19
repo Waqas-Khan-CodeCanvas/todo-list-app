@@ -1,9 +1,9 @@
-# 📌 To-Do List App
-
+# 📌 To-Do List App<br>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e470a4f1-c946-466b-80d1-e853c6820521/deploy-status)](https://app.netlify.com/sites/simple-todoapp-js/deploys)<br>
 A sleek and responsive **To-Do List App** built with HTML, CSS, Bootstrap, and JavaScript. This project helps users efficiently manage daily tasks with an intuitive interface and smooth user experience.
 
 ## 🚀 Live Demo
-🔗 [Check it out on Netlify](#) 
+🔗 Check it out : [Live Demo](https://simple-todoapp-js.netlify.app/) 
 
 ## 📜 Features
 ✅ Add new tasks instantly by pressing `Enter`  
